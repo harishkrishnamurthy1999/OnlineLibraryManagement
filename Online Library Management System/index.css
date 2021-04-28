@@ -1,0 +1,15 @@
+.center{
+    display: flex;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 200px;
+  }
+  body{
+ /* background-image: url("./assests/WhatsApp\ Image\ 2021-04-28\ at\ 8.48.54\ AM.jpeg" );
+      background-size: cover;
+      margin-bottom: 500px; */
+      z-index: -1;
+      background: linear-gradient(to right,#141318ba, #646364cc), url("./assests/WhatsApp\ Image\ 2021-04-28\ at\ 8.48.54\ AM.jpeg") top center ;
+      background-size: cover;
+    }
+  
